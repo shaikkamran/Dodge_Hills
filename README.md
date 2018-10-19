@@ -6,7 +6,7 @@
 <li>2.Arduino uno</li>
 <li>3.Oled display</li>
 <li>4.female to female jumpers</li>
-<li>5.HC SR04(Ultrasonic sensor</li>
+<li>5.HC SR04 (Ultrasonic sensor)</li>
 <li>6.ESP 8266 Wifi module</li>
 <h2>OBJECTIVE</h2>
 <p>
